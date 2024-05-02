@@ -9,7 +9,7 @@ Este desafio foi uma atividade do curso da Digital Innovation One (DIO), bootcam
 Para clonar o repositório e ter acesso ao código-fonte, execute o seguinte comando em seu terminal:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/leomaciel14/Desafio-Calculadora-de-Partidas-Rankeadas.git
 ```
 
 ## Pré-requisitos
